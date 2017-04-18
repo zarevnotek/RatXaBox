@@ -16,7 +16,7 @@
 # à Albaret pour le coup de main sur la gestion d'users, LetsGo67 pour ses rectifs et
 # Jedediah pour avoir joué avec le html/css du thème.
 # Aux traducteurs: Sophie, Spectre, Hardware, Zarev, SirGato, MiguelSam.
-#
+#qSQsq
 # Installation:
 #
 # apt-get update && apt-get upgrade -y
